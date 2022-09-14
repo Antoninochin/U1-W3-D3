@@ -1,0 +1,17 @@
+html body{
+    margin: 0px;
+}
+h1{
+    margin: 0px;
+}
+.h1{
+    color: white;
+}
+.Mano:hover{
+    cursor: pointer;
+}
+#Premi{
+    height: 100vh;
+    width: 100vw;
+    background-color: white;
+}
